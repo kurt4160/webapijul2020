@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigSample": {
+      "commandName": "Project",
+      "commandLineArgs": "myconfig1=\"value from app arg\" mysection1:myconfig2=\"from cmdline arg\""
+    }
+  }
+}
