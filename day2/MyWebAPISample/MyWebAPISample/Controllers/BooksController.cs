@@ -10,6 +10,9 @@ using System.Threading.Tasks;
 
 namespace MyWebAPISample.Controllers
 {
+    /// <summary>
+    /// this is the docu for the BooksController
+    /// </summary>
     [ApiController]
     [Produces("application/json", "application/xml")]
     [Route("api/[controller]")]
@@ -22,6 +25,10 @@ namespace MyWebAPISample.Controllers
             _booksService = booksService;
         }
 
+        /// <summary>
+        /// returns all the books from the lovely books database
+        /// </summary>
+        /// <returns>of course - the books</returns>
         [HttpGet]
       //   [ProducesResponseType(typeof(IEnumerable<Book>), 200)]
         public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
