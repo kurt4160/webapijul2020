@@ -5,6 +5,10 @@
 
 Create a new book, use CreatedAtRoute() im controller
 
+To test the API with dotnet repl, install the tool:
+
+> dotnet tool install -g dotnet-repl
+
 ## Extend the Web API project
 
 1. Add OpenAPI (Swagger)
