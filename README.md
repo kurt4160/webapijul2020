@@ -52,3 +52,32 @@ Workshop samples
 
 [HttpClient Factory](https://github.com/CNILearn/webapijul2020/tree/master/day2/HttpClientFactory/HttpClientFactorySample)
 
+## Day 3 Samples
+
+[Web API with enhanced client](https://github.com/CNILearn/webapijul2020/tree/master/day3/MyWebAPISampleWithClient)
+
+[Local Users](https://github.com/CNILearn/webapijul2020/tree/master/day3/WebAppWithLocalUsers)
+
+[Auth with AD](https://github.com/CNILearn/webapijul2020/tree/master/day3/ETCWebAppWithAzureAD)
+
+[AD B2C](https://github.com/CNILearn/webapijul2020/tree/master/day3/ETCWebAppWithB2C)
+
+[Extension Methods](https://github.com/CNILearn/webapijul2020/tree/master/day3/ExtensionMethodsSample)
+
+[Azure Functions](https://github.com/CNILearn/webapijul2020/tree/master/day3/MyAPIWithAzureFunction)
+
+[SignalR](https://github.com/CNILearn/webapijul2020/tree/master/day3/MySignalRService)
+
+## Day 4 Samples
+
+[GRPC](https://github.com/CNILearn/webapijul2020/tree/master/day4/MyGRPCService)
+
+[Worker Service](https://github.com/CNILearn/webapijul2020/tree/master/day4/MyWorkerService)
+
+[Docker](https://github.com/CNILearn/webapijul2020/tree/master/day4/MyWebAppWithDocker)
+
+[Project Tye](https://github.com/CNILearn/webapijul2020/tree/master/day4/TyeSample)
+
+[Ambient TX](https://github.com/CNILearn/webapijul2020/tree/master/day4/AmbientTXSample)
+
+[WCF](https://github.com/CNILearn/webapijul2020/tree/master/day4/WCFService1)
