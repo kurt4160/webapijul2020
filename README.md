@@ -4,6 +4,8 @@ Workshop samples
 
 [Slides](https://testmenucardstorage.blob.core.windows.net/webapi/WebAPI2020.pdf)
 
+[Make WCF new](https://github.com/CNILearn/webapijul2020/blob/master/WCF2New.md)
+
 ## Labs
 
 [Lab 1 - Web API, HttpClient](https://github.com/CNILearn/webapijul2020/blob/master/lab1.md)
